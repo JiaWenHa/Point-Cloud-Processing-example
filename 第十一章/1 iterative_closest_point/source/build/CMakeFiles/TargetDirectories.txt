@@ -1,3 +1,0 @@
-/home/ros/Programs/Point-Cloud-Processing-example/第十一章/1 iterative_closest_point/source/build/CMakeFiles/rebuild_cache.dir
-/home/ros/Programs/Point-Cloud-Processing-example/第十一章/1 iterative_closest_point/source/build/CMakeFiles/edit_cache.dir
-/home/ros/Programs/Point-Cloud-Processing-example/第十一章/1 iterative_closest_point/source/build/CMakeFiles/iterative_closest_point.dir

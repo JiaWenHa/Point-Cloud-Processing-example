@@ -1,0 +1,3 @@
+/home/ros/Programs/Point-Cloud-Processing-example/第八章/2 siftsource/source/build/CMakeFiles/rebuild_cache.dir
+/home/ros/Programs/Point-Cloud-Processing-example/第八章/2 siftsource/source/build/CMakeFiles/edit_cache.dir
+/home/ros/Programs/Point-Cloud-Processing-example/第八章/2 siftsource/source/build/CMakeFiles/Siftdetect.dir
